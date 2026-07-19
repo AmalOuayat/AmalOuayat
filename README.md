@@ -1,4 +1,4 @@
- Hi, I'm Amal 👋
+# Hi, I'm Amal Ouayat 👋
  
 **Full-Stack Web Developer** fraîchement diplômée de l'**ISTA Ifrane** (Technicienne Spécialisée en Développement Digital — option Web Full-Stack) 🇲🇦
  
@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54)
  
 **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -38,9 +38,8 @@
  
 ### 📫 Me contacter
  
-<!-- Zidi hna les liens dyalek (LinkedIn, email...) -->
 - 📍 Morocco
-- 💼 LinkedIn: *(bientôt)*
+
 ---
  
 <sub>⚡ Toujours en train d'apprendre — actuellement focus sur Laravel avancé (Queues, Task Scheduling) via mon projet Mediplan.</sub>
