@@ -37,8 +37,10 @@
 ---
  
 ### 📫 Me contacter
- 
+
 - 📍 Morocco
+- 💼 [LinkedIn](https://www.linkedin.com/in/amal-ouayat-a05035423/)
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ouayatamal@gmail.com)
 
 ---
  
